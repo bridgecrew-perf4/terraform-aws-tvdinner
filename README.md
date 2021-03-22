@@ -1,4 +1,4 @@
-![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/tvdinner/terraform-aws-tvdinner)
+[![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/tvdinner/terraform-aws-tvdinner)](https://hub.docker.com/r/tvdinner/terraform-aws-tvdinner)
 
 # `terraform-aws-tvdinner`
 
