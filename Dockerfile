@@ -1,7 +1,8 @@
 FROM ubuntu:18.04
 
-RUN apt update
-RUN apt install -y git jq
+RUN apt update && apt install -y \
+  git \
+  jq
 
 # Install tfenv
 RUN git clone https://github.com/tfutils/tfenv.git /opt/tfenv
